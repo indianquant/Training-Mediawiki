@@ -34,4 +34,4 @@ Since you are aspiring for GSoC and Outreachy and this is why you are here :), s
 
 ## How do I get help whilst following the training?
 
-To asks questions or give feedback, you can mail me at [Priyanshu Varshney](priyanshuvarshney6@gmail.com). 
+To asks questions or give feedback, you can mail me at [Priyanshu Varshney](mailto:priyanshuvarshney6@gmail.com). 
