@@ -1,6 +1,6 @@
 # Welcome to the MediaWiki Campus training 🚩
 
-![MediaWiki Campus Campus Training](https://www.mediawiki.org/wiki/Manual:$wgLogo#/media/File:MediaWiki_logo_without_tagline.png)
+![MediaWiki Campus Campus Training](https://upload.wikimedia.org/wikipedia/commons/6/64/MediaWiki_logo_without_tagline.png)
 
 
 This README explains how to get started with the MediaWiki Campus training proramme. 
